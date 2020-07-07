@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Ming21/NodeJS#readme",
   "devDependencies": {
-    "electron": "^1.3.4"
+    "electron": "^9.1.0"
   },
   "dependencies": {
     "angular": "^1.5.8",
